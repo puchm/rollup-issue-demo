@@ -1,0 +1,14 @@
+{
+    "presets": [
+        ["@babel/preset-env", {
+            "targets": {
+                "node": "3.0"
+            }
+        }],
+        "@babel/preset-typescript"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime",
+        "import-graphql"
+    ]
+}
