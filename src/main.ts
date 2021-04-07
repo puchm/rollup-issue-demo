@@ -1,5 +1,5 @@
-
+import test2 from './test';
 
 const test = async () => {
-    console.log("test");
+    console.log("test", test2);
 }
