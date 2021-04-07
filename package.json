@@ -15,7 +15,6 @@
     "@babel/preset-typescript": "^7.13.0",
     "@rollup/plugin-babel": "^5.3.0",
     "@rollup/plugin-node-resolve": "^11.2.1",
-    "babel-plugin-import-graphql": "^2.8.1",
     "rollup": "^2.44.0"
   },
   "dependencies": {
